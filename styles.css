@@ -1,0 +1,147 @@
+/* Reset and basic styling */
+body, h1, h2, p, ul, li {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f4f4f4;
+}
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
+header {
+    background: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+header h1 {
+    margin-bottom: 10px;
+}
+header p {
+    margin-bottom: 5px;
+}
+header a {
+    color: #4CAF50; /* Changed to a lighter green for better visibility */
+    text-decoration: none;
+}
+header a:hover {
+    text-decoration: underline;
+}
+section {
+    background: #fff;
+    padding: 20px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Added shadow for better visibility */
+}
+section h2 {
+    margin-bottom: 10px;
+    color: #333;
+}
+ul {
+    list-style: none;
+}/* Reset and basic styling */
+body, h1, h2, p, ul, li {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f4f4f4;
+}
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+header {
+    background: #007bff; /* Blue background for the header */
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+    border-radius: 8px; /* Rounded corners for the header */
+}
+header h1 {
+    margin-bottom: 10px;
+    font-size: 2.5em; /* Larger font size for the header */
+}
+header p {
+    margin-bottom: 5px;
+    font-size: 1.2em; /* Slightly larger font size for contact details */
+}
+header a {
+    color: #ffd700; /* Gold color for links */
+    text-decoration: none;
+    font-weight: bold;
+}
+header a:hover {
+    text-decoration: underline;
+}
+section {
+    background: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px; /* Rounded corners for sections */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Soft shadow for sections */
+}
+section h2 {
+    margin-bottom: 15px;
+    color: #333;
+    font-size: 2em; /* Larger font size for section headings */
+}
+ul {
+    list-style: none;
+}
+ul li {
+    margin-bottom: 10px;
+}
+footer {
+    background: #007bff; /* Match footer background with header */
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    border-radius: 8px; /* Rounded corners for the footer */
+}
+footer p {
+    margin: 0;
+}
+.photo-section {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.photo-section img {
+    width: 150px; /* Adjust size as needed */
+    height: 150px;
+    border-radius: 50%; /* Circular photo */
+    border: 5px solid #007bff; /* Blue border for the photo */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Shadow for the photo */
+}
+.photo-section h2 {
+    margin-top: 10px;
+    font-size: 1.5em;
+    color: #007bff; /* Blue color for the name */
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+footer p {
+    margin: 0;
+}
